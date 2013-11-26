@@ -10,5 +10,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textColor="@android:color/background_light" />
+        android:textColor="@android:color/background_light"
+        android:fontFamily="sans-serif-condensed" />
 </LinearLayout>
